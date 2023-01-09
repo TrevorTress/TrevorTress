@@ -10,18 +10,21 @@ I'm familiar with both front-end and back-end technologies but I have a deep int
 
 ## Languages
 
-Javascript, Typescript, C#, SQL, HTML & CSS
+Javascript, Typescript, C#, PHP, SQL, HTML & CSS
 
-## Enviroments & Packages
-
-- node.js
+## Front-End Packages/Frameworks
 - react.js
-- handlebars.js
-- express.js
 - JQuery
+- Tailwind
 - bootstrap
-- sequelize
+- handlebars.js
+
+
+## Back-End Packages/Frameworks
+- node.js
+- express.js
 - MySQL
+- Sequelize
 - GraphQL
 - MongoDB
 - webpack
