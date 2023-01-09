@@ -1,16 +1,37 @@
-### Hi there 👋
+# Trevor Tress
 
-<!--
-**TrevorTress/TrevorTress** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! My name is Trevor.
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a web developer and graduate of Michigan State's Full Stack Web Development Cohort.
+
+I'm familiar with both front-end and back-end technologies but I have a deep interest in Data Structures and push myself to learn more everyday.
+
+## Languages
+
+Javascript, Typescript, C#, SQL, HTML & CSS
+
+## Enviroments & Packages
+
+- node.js
+- react.js
+- handlebars.js
+- express.js
+- JQuery
+- bootstrap
+- sequelize
+- MySQL
+- GraphQL
+- MongoDB
+- webpack
+
+## Applications & IDE
+
+- Visual Studio Code
+- Visual Studio
+- Apache NetBeans
+- cPanel
+- MySQL
+- Insomnia
+- Heroku
