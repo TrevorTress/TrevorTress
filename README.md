@@ -6,7 +6,7 @@ Hi! My name is Trevor.
 
 I'm a web developer and graduate of Michigan State's Full Stack Web Development Cohort.
 
-I'm familiar with both front-end and back-end technologies but I have a deep interest in Data Structures and push myself to learn more everyday.
+I have experience with both front-end and back-end technologies, but specialize in front-end development with React.
 
 ## Languages
 
