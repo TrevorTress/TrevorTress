@@ -6,7 +6,7 @@ Hi! My name is Trevor.
 
 I became a full-stack web developer after graduating from Michigan State's Full Stack Web Development Bootcamp.
 
-I have experience with both front-end and back-end technologies, but specialize in front-end development with React.
+I now specialize in creating customized documentation management systems, primarily for manufacturing companies, with a focus on streamlining documentation processes, improving collaboration and communication, and enhancing overall efficiency, all inside of a sleek, user-friendly interface.
 
 ## Languages
 
