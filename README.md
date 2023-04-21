@@ -6,7 +6,7 @@ Hi! My name is Trevor.
 
 I became a full-stack web developer after graduating from Michigan State's Full Stack Web Development Bootcamp.
 
-I now specialize in creating customized documentation management systems, primarily for manufacturing companies, with a focus on streamlining documentation processes, improving collaboration and communication, and enhancing overall efficiency, all inside of a sleek, user-friendly interface.
+I now specialize in creating customized documentation management systems, primarily for manufacturing companies, with a focus on streamlining documentation processes, improving information flow, and enhancing overall efficiency, all inside of a sleek and user-friendly interface.
 
 ## Languages
 
