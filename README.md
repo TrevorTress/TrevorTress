@@ -4,37 +4,40 @@ Hi! My name is Trevor.
 
 ## About me
 
-I'm a web developer and graduate of Michigan State's Full Stack Web Development Cohort.
+I became a full-stack web developer after graduating from Michigan State's Full Stack Web Development Bootcamp.
 
 I have experience with both front-end and back-end technologies, but specialize in front-end development with React.
 
 ## Languages
 
-Javascript, Typescript, C#, PHP, SQL, HTML & CSS
+Javascript, Typescript, C#, PHP, HTML & CSS
 
 ## Front-End Packages/Frameworks
 - react.js
-- JQuery
-- Tailwind
+- jQuery
 - bootstrap
+- Tailwind CSS
 - handlebars.js
-
 
 ## Back-End Packages/Frameworks
 - node.js
-- express.js
-- MySQL
+- mySQL2
 - Sequelize
-- GraphQL
-- MongoDB
-- webpack
 
-## Applications & IDE
+## Servers
+- Express.js
+- Microsoft Azure
+- Apache
+
+## Databases
+- MongoDB
+- SQL
+
+## Applications / IDE
 
 - Visual Studio Code
 - Visual Studio
 - Apache NetBeans
 - cPanel
-- MySQL
-- Insomnia
 - Heroku
+- Insomnia
