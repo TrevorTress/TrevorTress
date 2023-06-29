@@ -1,10 +1,10 @@
 # Trevor Tress
 
-Hi! My name is Trevor.
+Hi! I'm Trevor.
 
 ## About me
 
-I became a full-stack web developer after graduating from Michigan State's Full Stack Web Development Bootcamp.
+I'm a full-stack web developer that graduated from Michigan State's Full Stack Web Development Bootcamp in 2022.
 
 I now specialize in creating customized documentation management systems, primarily for manufacturing companies, with a focus on streamlining documentation processes, improving information flow, and enhancing overall efficiency, all inside of a sleek and user-friendly interface.
 
@@ -12,7 +12,7 @@ I have a love for react and everything javascript!
 
 ## Languages
 
-Javascript, Typescript, C#, PHP, HTML & CSS
+Typescript, C#, PHP, HTML & CSS
 
 ## Front-End Packages/Frameworks
 - react.js
@@ -22,24 +22,26 @@ Javascript, Typescript, C#, PHP, HTML & CSS
 - handlebars.js
 
 ## Back-End Packages/Frameworks
+- Firebase
 - node.js
+- PHP
+  
+- Express.js
+- Apache
+- Microsoft Azure
+
 - mySQL2
 - Sequelize
+- SQLite
 
-## Servers
-- Express.js
-- Microsoft Azure
-- Apache
-
-## Databases
 - MongoDB
-- SQL
+- Firestore
 
 ## Applications / IDE
 
 - Visual Studio Code
 - Visual Studio
-- Apache NetBeans
 - cPanel
+- Apache NetBeans
 - Heroku
 - Insomnia
